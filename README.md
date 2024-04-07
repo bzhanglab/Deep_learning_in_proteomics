@@ -227,6 +227,8 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/nh2tran/DeepNovo
 	- Reference:  
 		- Tran, Ngoc Hieu, et al. "[De novo peptide sequencing by deep learning](https://www.pnas.org/content/114/31/8247)." *Proceedings of the National Academy of Sciences* 114.31 (2017): 8247-8252.
+        - Applications:
+        	-  Hugo Kleikamp, Ramon van der Zwaan, Ramon van Valderen, Jitske van Ede, Mario Pronk, Pim Schaasberg, Maximilienne Allaart, Mark van Loosdrecht, Martin Pabst. "[NovoLign: metaproteomics by sequence alignment](https://doi.org/10.1101/2024.04.04.588008)". *bioRxiv* (2024).
 
 2. **DeepNovo-DIA**: De novo peptide sequencing
 	- Source code: https://github.com/nh2tran/DeepNovo-DIA
