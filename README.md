@@ -229,7 +229,8 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 		- Tran, Ngoc Hieu, et al. "[De novo peptide sequencing by deep learning](https://www.pnas.org/content/114/31/8247)." *Proceedings of the National Academy of Sciences* 114.31 (2017): 8247-8252.
         - Applications:
         	-  Hugo Kleikamp, Ramon van der Zwaan, Ramon van Valderen, Jitske van Ede, Mario Pronk, Pim Schaasberg, Maximilienne Allaart, Mark van Loosdrecht, Martin Pabst. "[NovoLign: metaproteomics by sequence alignment](https://doi.org/10.1101/2024.04.04.588008)". *bioRxiv* (2024).
-         	-  Bedran, Georges, et al. "[The Immunopeptidome from a Genomic Perspective: Establishing the Noncanonical Landscape of MHC Class I–Associated Peptides](https://doi.org/10.1158/2326-6066.CIR-22-0621)." *Cancer immunology research* 11.6 (2023): 747-762. 
+         	-  Bedran, Georges, et al. "[The Immunopeptidome from a Genomic Perspective: Establishing the Noncanonical Landscape of MHC Class I–Associated Peptides](https://doi.org/10.1158/2326-6066.CIR-22-0621)." *Cancer immunology research* 11.6 (2023): 747-762.
+          	-  Najle, Sebastián R., et al. "[Stepwise emergence of the neuronal gene expression program in early animal evolution](https://www.cell.com/cell/fulltext/S0092-8674(23)00917-0)." *Cell* 186.21 (2023): 4676-4693.	 
 
 2. **DeepNovo-DIA**: De novo peptide sequencing
 	- Source code: https://github.com/nh2tran/DeepNovo-DIA
