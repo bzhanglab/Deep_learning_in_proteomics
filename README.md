@@ -253,7 +253,9 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Source code: https://github.com/volpato30/PointNovo
 	- Pre-trained models: https://github.com/volpato30/PointNovo
 	- Reference:  
-		- Qiao, R., Tran, N.H., Xin, L. et al. "[Computationally instrument-resolution-independent de novo peptide sequencing for high-resolution devices](https://doi.org/10.1038/s42256-021-00304-3)." *Nat Mach Intell* 3, 420–425 (2021). 
+		- Qiao, R., Tran, N.H., Xin, L. et al. "[Computationally instrument-resolution-independent de novo peptide sequencing for high-resolution devices](https://doi.org/10.1038/s42256-021-00304-3)." *Nat Mach Intell* 3, 420–425 (2021).
+        - Applications:
+          	- Tang, Di, Carlos Alberto Gueto-Tettay, Elisabeth Hjortswang, Joel Ströbaek, Simon Ekström, Lotta Happonen, Lars Malmström, and Johan Malmström. "[Multi-Modal Mass Spectrometry Identifies a Conserved Protective Epitope in S. pyogenes Streptolysin O](https://www.biorxiv.org/content/10.1101/2023.12.02.569700v1.full)." bioRxiv (2023): 2023-12.
 
 
 6. **pValid 2**: Leveraging deep learning to improve peptide identification
