@@ -222,6 +222,44 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 
 #### Peptide identification
 
+1. **DeepRescore**: Leveraging deep learning to improve peptide identification
+	- Source code: https://github.com/bzhanglab/DeepRescore
+	- Reference:  
+		- Li, Kai, et al. "[DeepRescore: Leveraging Deep Learning to Improve Peptide Identification in Immunopeptidomics](https://doi.org/10.1002/pmic.201900334)." Proteomics 20.21-22 (2020): 1900334.
+
+2. **pValid 2**: Leveraging deep learning to improve peptide identification
+	- Homepage: http://pfind.ict.ac.cn/software/pValid2/index.html
+	- Reference:  
+		- Zhou, Wen-Jing, et al. "[pValid 2: A deep learning based validation method for peptide identification in shotgun proteomics with increased discriminating power](https://www.sciencedirect.com/science/article/abs/pii/S1874391921003134)." *Journal of Proteomics* (2021): 104414. 
+
+3. **DeepSCP**: Utilizing deep learning to boost single-cell proteome coverage
+	- Source code: https://github.com/XuejiangGuo/DeepSCP
+	- Reference:  
+		- Bing Wang, Yue Wang, Yu Chen, Mengmeng Gao, Jie Ren, Yueshuai Guo, Chenghao Situ, Yaling Qi, Hui Zhu, Yan Li, Xuejiang Guo, [DeepSCP: utilizing deep learning to boost single-cell proteome coverage](https://doi.org/10.1093/bib/bbac214). Briefings in Bioinformatics, 2022;, bbac214.
+		
+4. **SpeCollate**: Deep cross-modal similarity network for mass spectrometry data based peptide deductions
+	- Source code: https://pcdslab.github.io/SpeCollate/
+	- Reference:  
+		- Tariq, Muhammad Usman, and Fahad Saeed. [SpeCollate: Deep cross-modal similarity network for mass spectrometry data based peptide deductions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259349)." *PloS one* 16.10 (2021): e0259349.
+		
+5. **yHydra**: Deep Learning enables an Ultra Fast Open Search by Jointly Embedding MS/MS Spectra and Peptides of Mass Spectrometry-based Proteomics
+	- Source code: https://github.com/tzom/yHydra
+	- Reference:  
+		- Altenburg, Tom, Thilo Muth, and Bernhard Y. Renard. [yHydra: Deep Learning enables an Ultra Fast Open Search by Jointly Embedding MS/MS Spectra and Peptides of Mass Spectrometry-based Proteomics](https://www.biorxiv.org/content/10.1101/2021.12.01.470818v2) *bioRxiv* (2021).
+
+6. **MSBooster**:  Improving Peptide Identification Rates using Deep Learning-Based Features
+	- Source code: https://github.com/Nesvilab/MSBooster
+	- Reference:  
+		- Kevin L Yang, Fengchao Yu, Guo Ci Teo, Vadim Demichev, Markus Ralser, Alexey I Nesvizhskii. "[MSBooster: Improving Peptide Identification Rates using Deep Learning-Based Features](https://doi.org/10.1101/2022.10.19.512904)" *bioRxiv* (2022).
+	
+7. **inSPIRE**:  An open-source tool for increased mass spectrometry identification rates using Prosit spectral prediction
+	- Source code: https://github.com/QuantSysBio/inSPIRE
+	- Reference:  
+		- John A. Cormican, Yehor Horokhovskyi, Wai Tuck Soh, Michele Mishto, Juliane Liepe. "[inSPIRE: An open-source tool for increased mass spectrometry identification rates using Prosit spectral prediction](https://www.mcponline.org/article/S1535-9476(22)00240-7/fulltext)" *Molecular & Cellular Proteomics* (2022).
+
+
+#### Peptide denovo sequencing
+
 1. **DeepNovo**: De novo peptide sequencing
 	- Source code: https://github.com/nh2tran/DeepNovo
 	- Pre-trained models: https://github.com/nh2tran/DeepNovo
@@ -244,12 +282,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Karunratanakul, Korrawe, et al. "[Uncovering thousands of new peptides with sequence-mask-search hybrid de novo peptide sequencing framework](https://www.mcponline.org/content/18/12/2478)." *Molecular & Cellular Proteomics* 18.12 (2019): 2478-2491.
 
-4. **DeepRescore**: Leveraging deep learning to improve peptide identification
-	- Source code: https://github.com/bzhanglab/DeepRescore
-	- Reference:  
-		- Li, Kai, et al. "[DeepRescore: Leveraging Deep Learning to Improve Peptide Identification in Immunopeptidomics](https://doi.org/10.1002/pmic.201900334)." Proteomics 20.21-22 (2020): 1900334.
-
-5. **PointNovo**: De novo peptide sequencing
+4. **PointNovo**: De novo peptide sequencing
 	- Source code: https://github.com/volpato30/PointNovo
 	- Pre-trained models: https://github.com/volpato30/PointNovo
 	- Reference:  
@@ -257,14 +290,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
         - Applications:
           	- Tang, Di, Carlos Alberto Gueto-Tettay, Elisabeth Hjortswang, Joel Ströbaek, Simon Ekström, Lotta Happonen, Lars Malmström, and Johan Malmström. "[Multi-Modal Mass Spectrometry Identifies a Conserved Protective Epitope in S. pyogenes Streptolysin O](https://www.biorxiv.org/content/10.1101/2023.12.02.569700v1.full)." bioRxiv (2023): 2023-12.
 
-
-6. **pValid 2**: Leveraging deep learning to improve peptide identification
-	- Homepage: http://pfind.ict.ac.cn/software/pValid2/index.html
-	- Reference:  
-		- Zhou, Wen-Jing, et al. "[pValid 2: A deep learning based validation method for peptide identification in shotgun proteomics with increased discriminating power](https://www.sciencedirect.com/science/article/abs/pii/S1874391921003134)." *Journal of Proteomics* (2021): 104414. 
-
-
-7. **Casanovo**: De novo peptide sequencing
+5. **Casanovo**: De novo peptide sequencing
 	- Source code: https://github.com/Noble-Lab/casanovo
 	- Pre-trained models: https://github.com/Noble-Lab/casanovo
 	- Reference:  
@@ -273,43 +299,17 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
         	- West-Roberts, Jacob A., Luis E. Valentin Alvarado, Susan Mullen, Rohan Sachdeva, Justin Smith, Laura A. Hug, Daniel Gregoire et al. "[Giant genes are rare but implicated in cell wall degradation by predatory bacteria](https://www.biorxiv.org/content/10.1101/2023.11.21.568195v1.full)." bioRxiv (2023): 2023-11.
          	- Tang, Di, Carlos Alberto Gueto-Tettay, Elisabeth Hjortswang, Joel Ströbaek, Simon Ekström, Lotta Happonen, Lars Malmström, and Johan Malmström. "[Multi-Modal Mass Spectrometry Identifies a Conserved Protective Epitope in S. pyogenes Streptolysin O](https://www.biorxiv.org/content/10.1101/2023.12.02.569700v1.full)." bioRxiv (2023): 2023-12.
 		
-8. **PepNet**: De novo peptide sequencing
+6. **PepNet**: De novo peptide sequencing
 	- Source code: https://github.com/lkytal/PepNet
 	- Pre-trained models: https://github.com/lkytal/PepNet
 	- Reference:  
 		- Kaiyuan Liu, Yuzhen Ye, Haixu Tang. "[PepNet: A Fully Convolutional Neural Network for De novo Peptide Sequencing](https://www.researchsquare.com/article/rs-1341615/v1)". *Research Square*. 2022.
 		
-9. **DePS**: De novo peptide sequencing
+7. **DePS**: De novo peptide sequencing
 	- Source code: Not available
 	- Pre-trained models: Not available
 	- Reference:  
 		- Cheng Ge, Yi Lu, Jia Qu, Liangxu Xie, Feng Wang, Hong Zhang, Ren Kong, Shan Chang. "[DePS: An improved deep learning model for de novo peptide sequencing](https://arxiv.org/pdf/2203.08820.pdf)". *arXiv*. 2022.
-
-10. **DeepSCP**: Utilizing deep learning to boost single-cell proteome coverage
-	- Source code: https://github.com/XuejiangGuo/DeepSCP
-	- Reference:  
-		- Bing Wang, Yue Wang, Yu Chen, Mengmeng Gao, Jie Ren, Yueshuai Guo, Chenghao Situ, Yaling Qi, Hui Zhu, Yan Li, Xuejiang Guo, [DeepSCP: utilizing deep learning to boost single-cell proteome coverage](https://doi.org/10.1093/bib/bbac214). Briefings in Bioinformatics, 2022;, bbac214.
-		
-11. **SpeCollate**: Deep cross-modal similarity network for mass spectrometry data based peptide deductions
-	- Source code: https://pcdslab.github.io/SpeCollate/
-	- Reference:  
-		- Tariq, Muhammad Usman, and Fahad Saeed. [SpeCollate: Deep cross-modal similarity network for mass spectrometry data based peptide deductions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259349)." *PloS one* 16.10 (2021): e0259349.
-		
-12. **yHydra**: Deep Learning enables an Ultra Fast Open Search by Jointly Embedding MS/MS Spectra and Peptides of Mass Spectrometry-based Proteomics
-	- Source code: https://github.com/tzom/yHydra
-	- Reference:  
-		- Altenburg, Tom, Thilo Muth, and Bernhard Y. Renard. [yHydra: Deep Learning enables an Ultra Fast Open Search by Jointly Embedding MS/MS Spectra and Peptides of Mass Spectrometry-based Proteomics](https://www.biorxiv.org/content/10.1101/2021.12.01.470818v2) *bioRxiv* (2021).
-
-13. **MSBooster**:  Improving Peptide Identification Rates using Deep Learning-Based Features
-	- Source code: https://github.com/Nesvilab/MSBooster
-	- Reference:  
-		- Kevin L Yang, Fengchao Yu, Guo Ci Teo, Vadim Demichev, Markus Ralser, Alexey I Nesvizhskii. "[MSBooster: Improving Peptide Identification Rates using Deep Learning-Based Features](https://doi.org/10.1101/2022.10.19.512904)" *bioRxiv* (2022).
-	
-14. **inSPIRE**:  An open-source tool for increased mass spectrometry identification rates using Prosit spectral prediction
-	- Source code: https://github.com/QuantSysBio/inSPIRE
-	- Reference:  
-		- John A. Cormican, Yehor Horokhovskyi, Wai Tuck Soh, Michele Mishto, Juliane Liepe. "[inSPIRE: An open-source tool for increased mass spectrometry identification rates using Prosit spectral prediction](https://www.mcponline.org/article/S1535-9476(22)00240-7/fulltext)" *Molecular & Cellular Proteomics* (2022).
-
 
 #### Data-independent acquisition mass spectrometry
 
