@@ -318,7 +318,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Eloff, Kevin, Konstantinos Kalogeropoulos, Oliver Morell, Amandla Mabona, Jakob Berg Jespersen, Wesley Williams, Sam PB van Beljouw et al. "[De novo peptide sequencing with InstaNovo: Accurate, database-free peptide identification for large scale proteomics experiments](https://www.biorxiv.org/content/10.1101/2023.08.30.555055v3.abstract)." *bioRxiv* (2023): 2023-08.
 	- Applications:
-          	- Tang, Di, Carlos Alberto Gueto-Tettay, Elisabeth Hjortswang, Joel Ströbaek, Simon Ekström, Lotta Happonen, Lars Malmström, and Johan Malmström. "[Multi-Modal Mass Spectrometry Identifies a Conserved Protective Epitope in S. pyogenes Streptolysin O](https://www.biorxiv.org/content/10.1101/2023.12.02.569700v1.full)." bioRxiv (2023): 2023-12.
+		- Tang, Di, Carlos Alberto Gueto-Tettay, Elisabeth Hjortswang, Joel Ströbaek, Simon Ekström, Lotta Happonen, Lars Malmström, and Johan Malmström. "[Multi-Modal Mass Spectrometry Identifies a Conserved Protective Epitope in S. pyogenes Streptolysin O](https://www.biorxiv.org/content/10.1101/2023.12.02.569700v1.full)." bioRxiv (2023): 2023-12.
 
 #### Data-independent acquisition mass spectrometry
 
