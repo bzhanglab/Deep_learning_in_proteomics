@@ -15,6 +15,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 - [Peptide detectability prediction](#peptide-detectability-prediction)
 - [MS/MS spectrum quality prediction](#msms-spectrum-quality-prediction)
 - [Peptide identification](#peptide-identification)
+- [Peptide denovo sequencing](#peptide-denovo-sequencing)
 - [Data-independent acquisition mass spectrometry](#data-independent-acquisition-mass-spectrometry)
 - [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
 - [MHC-peptide binding prediction](#mhc-peptide-binding-prediction)
